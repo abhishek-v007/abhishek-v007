@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Python's FastApi**
 
-- 👨‍💻 All of my projects are available at [https://abhishek-tiwari-portfolio.netlify.app/](https://abhishek-tiwari-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abhishektiwariportfolio.framer.website/](https://abhishektiwariportfolio.framer.website/)
 
 - 💬 Ask me about **Flutter, Next.Js, React.Js, RestAPI's**
 
